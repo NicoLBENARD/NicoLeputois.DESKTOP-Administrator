@@ -1,0 +1,1 @@
+Thanks for choosing Visual Studio Team Services!
